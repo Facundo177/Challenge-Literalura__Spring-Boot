@@ -79,6 +79,11 @@ Con los siguientes repositorios y consultas:
 
 ![image](https://github.com/Facundo177/Challenge-Literalura__Spring-Boot/assets/99448005/012edf93-0a57-46dd-b494-9a11c47e995c)
 
-
+   <br />
+   <br />
+<div align="center">
+  <h2> Badge del Challenge </h2> 
+  <img src="https://github.com/user-attachments/assets/99793f93-3e27-47e0-986e-dd3954aa0112">
+</div>
 
 
